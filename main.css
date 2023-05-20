@@ -1,0 +1,23 @@
+.container{
+    background-color: #bcb9b9;
+    text-align: center;
+}
+.jumbotron{
+    margin-left: 20%;
+    width: 60%;
+    background-color: #1d9ddb;
+    color: white;
+}
+.alert-danger{
+    width: 250px;
+    margin-left: 38%;
+    background-color: red;
+    color: white;
+}
+.alert-primary{
+    width: 250px;
+    margin-left: 28%;
+    color: white;
+    border: 1px solid white;
+    background-color: transparent;
+}

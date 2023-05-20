@@ -1,0 +1,21 @@
+.container{
+    padding: 55px;
+    background-color: #86d79f;
+}
+.jumbotron{
+    width: 80%;
+    margin-left: 110px;
+    background-color: #559fef;
+    text-align: center;
+    color: white;
+    box-shadow: 10px 8px 2px  9px rgba(0,0,0,0.4);
+}
+.alert{
+    width: 250px;
+    border-radius: 25px;
+    text-align: center;
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    margin-left: 33%;
+}
